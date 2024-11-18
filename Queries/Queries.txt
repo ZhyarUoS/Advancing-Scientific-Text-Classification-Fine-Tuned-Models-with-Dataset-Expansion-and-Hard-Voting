@@ -1,0 +1,18 @@
+1) biochemistry OR "protein structure" OR "enzyme kinetics" OR "metabolism" OR "biomolecules" OR "molecular biology" OR "lipid metabolism" OR "nucleic acids" OR "metabolic pathways" OR "cell signaling" OR "DNA replication" OR "RNA transcription" OR "protein folding" OR "enzyme activity" OR "gene expression"
+
+
+
+
+2) "software engineering" OR "software testing" OR "software design" OR "programming languages" OR "software maintenance"
+
+
+3) "civil engineering" OR "structural engineering" OR "geotechnical engineering" OR "construction engineering" OR "transportation engineering" OR "environmental engineering" OR "hydraulic engineering" OR "water resources" OR "urban planning" OR "infrastructure" OR "bridge design" OR "road construction" OR "sustainable construction" OR "earthquake engineering" OR "soil mechanics" OR "foundation engineering"
+
+
+4) "electrical engineering" OR "power systems" OR "electromagnetics" OR "control systems" OR "signal processing" OR "telecommunications" OR "electronics" OR "microelectronics" OR "circuit design" OR "renewable energy systems" OR "semiconductors" OR "power electronics" OR "smart grids" OR "wireless communication" OR "embedded systems" OR "robotics" OR "automation" OR "electric vehicles" OR "digital signal processing" OR "antenna design" OR "control theory"
+
+5) "medical sciences" OR "medicine" OR "clinical research" OR "healthcare" OR "public health" OR "surgery" OR "internal medicine" OR "oncology" OR "cardiology" OR "neurology" OR "infectious diseases" OR "epidemiology" OR "pathology" OR "pharmacology" OR "diagnostics" OR "biomedicine" OR "genetics" OR "immunology" OR "physiology" OR "radiology" OR "psychiatry" OR "nursing" OR "family medicine" OR "emergency medicine" OR "pediatrics"
+
+6)"mechanical engineering" OR "thermodynamics" OR "fluid mechanics" OR "mechanics of materials" OR "finite element analysis" OR "heat transfer" OR "machine design" OR "vibrations" OR "dynamics" OR "automotive engineering" OR "aerospace engineering" OR "manufacturing engineering" OR "robotics" OR "mechatronics" OR "biomechanics" OR "renewable energy" OR "computational fluid dynamics" OR "thermal engineering" OR "mechanical systems" OR "solid mechanics"
+
+7) "psychology" OR "behavioral science" OR "cognitive psychology" OR "clinical psychology" OR "developmental psychology" OR "social psychology" OR "neuropsychology" OR "psychopathology" OR "counseling psychology" OR "psychotherapy" OR "personality psychology" OR "mental health" OR "psychological disorders" OR "cognitive development" OR "emotional regulation" OR "psychometrics" OR "behavior analysis" OR "psychological assessment" OR "therapy" OR "psychobiology"
