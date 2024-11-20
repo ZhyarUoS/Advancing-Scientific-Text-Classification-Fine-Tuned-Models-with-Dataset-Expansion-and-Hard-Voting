@@ -1,0 +1,14 @@
+A) Top 1 Domain Accuracy:
+ECE: Correct: 965, Total: 996, Accuracy: 96.89%
+Psychology: Correct: 982, Total: 999, Accuracy: 98.30%
+biochemistry: Correct: 996, Total: 1000, Accuracy: 99.60%
+
+B) Top 1 or Top 2 Domain Accuracy:
+ECE: Correct: 988, Total: 996, Accuracy: 99.20%
+Psychology: Correct: 998, Total: 999, Accuracy: 99.90%
+biochemistry: Correct: 998, Total: 1000, Accuracy: 99.80%
+
+C) Top 1, Top 2, or Top 3 Domain Accuracy:
+ECE: Correct: 996, Total: 996, Accuracy: 100.00%
+Psychology: Correct: 999, Total: 999, Accuracy: 100.00%
+biochemistry: Correct: 1000, Total: 1000, Accuracy: 100.00%

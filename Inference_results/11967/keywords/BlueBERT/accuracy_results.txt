@@ -1,0 +1,26 @@
+A) First domain prediction accuracy:
+CS: Correct: 801, Total: 1000, Accuracy: 80.10%
+ECE: Correct: 753, Total: 996, Accuracy: 75.60%
+Psychology: Correct: 765, Total: 999, Accuracy: 76.58%
+MAE: Correct: 952, Total: 1000, Accuracy: 95.20%
+Civil: Correct: 635, Total: 999, Accuracy: 63.56%
+Medical: Correct: 578, Total: 1000, Accuracy: 57.80%
+biochemistry: Correct: 899, Total: 1000, Accuracy: 89.90%
+
+B) Second domain prediction accuracy:
+CS: Correct: 984, Total: 1000, Accuracy: 98.40%
+ECE: Correct: 942, Total: 996, Accuracy: 94.58%
+Psychology: Correct: 959, Total: 999, Accuracy: 96.00%
+MAE: Correct: 988, Total: 1000, Accuracy: 98.80%
+Civil: Correct: 885, Total: 999, Accuracy: 88.59%
+Medical: Correct: 875, Total: 1000, Accuracy: 87.50%
+biochemistry: Correct: 985, Total: 1000, Accuracy: 98.50%
+
+C) First, second, or third  domain accuracy:
+CS: Correct: 999, Total: 1000, Accuracy: 99.90%
+ECE: Correct: 977, Total: 996, Accuracy: 98.09%
+Psychology: Correct: 988, Total: 999, Accuracy: 98.90%
+MAE: Correct: 996, Total: 1000, Accuracy: 99.60%
+Civil: Correct: 973, Total: 999, Accuracy: 97.40%
+Medical: Correct: 950, Total: 1000, Accuracy: 95.00%
+biochemistry: Correct: 992, Total: 1000, Accuracy: 99.20%
